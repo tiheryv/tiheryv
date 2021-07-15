@@ -9,6 +9,7 @@ I am a Computer Engineer interested in Web Development. This is a place for my s
 - JavaScript
 - HTML & CSS
 - SASS
+- Bootstrap
 - Git & Github
 
 ## 📈 My stats:
