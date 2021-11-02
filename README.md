@@ -6,6 +6,7 @@ I am a Computer Engineer interested in Web Development. This is a place for my s
 🌱 I’m currently learning React and Back-End Development
 
 ## 🚀 Technologies I use:
+- ReactJS
 - JavaScript
 - HTML & CSS
 - SASS
