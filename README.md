@@ -7,7 +7,9 @@ I am a Computer Engineer interested in Web Development. This is a place for my s
 
 ## 🚀 Technologies I use:
 - ReactJS
+- React Native
 - JavaScript
+- Typescript
 - HTML & CSS
 - SASS
 - Bootstrap
